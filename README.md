@@ -46,5 +46,6 @@ Sources suivies : Blog du Modérateur, Developpez.com, CERT-FR, The Hacker News,
 ## AAAA-MM-JJ - Titre du sujet
 **Source :** [Nom de la source](lien)
 **Thème :** JavaScript / Sécurité / Tests / Tendances
-**Ce que j'en retiens :** une ou deux phrases.
-**Lien avec mes projets :** facultatif.
+**Sujet :** Lorem ipsum dolor sit amet, consectetur adipiscing elit.
+**Ce que j'en retiens :** Mauris tempor euismod ipsum ut tincidunt.
+**Lien avec mes projets :** In auctor, massa vel vestibulum facilisis, turpis urna lobortis ante, at ultricies turpis ex vitae tellus.
