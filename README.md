@@ -20,6 +20,7 @@ Sources suivies : Blog du Modérateur, Developpez.com, CERT-FR, The Hacker News,
 **Thème :** Accessibilité / Open source
 **Sujet :** GitHub présente un cadre pour rendre les projets open source accessibles construit avec des personnes concernées par le handicap autour d'un fichier ACCESSIBILITY.md.
 **Ce que j'en retiens :** l'accessibilité doit être pensée et documentée dès le début d'un projet en précisant aussi ses limites et la manière de signaler un problème.
+**Action réalisée :** j'ai ajouté un fichier ACCESSIBILITY.md à mon projet météo qui documente mes choix d'accessibilité (contraste, grandes polices, textes alternatifs, messages d'erreur clairs), leurs limites connues et la manière de signaler un problème. J'ai aussi vérifié le contraste de mes couleurs avec le Contrast Checker de WebAIM. <<<<Lien vers le fichier accessibility>>>>
 **Lien avec mes projets :** mon écran météo utilise des textes alternatifs, un fort contraste et de grandes polices. Je pourrais ajouter un fichier ACCESSIBILITY.md pour documenter ces choix.
 
 ---
