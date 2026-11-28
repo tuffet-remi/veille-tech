@@ -4,6 +4,15 @@ Sources suivies : Blog du Modérateur, Developpez.com, CERT-FR, The Hacker News,
 
 ---
 
+## 2026-11-28 – L'accessibilité dans les projets open source
+**Source :** [GitHub Blog](https://github.blog/open-source/maintainers/the-best-things-in-open-source-are-built-together/) (article du 19 novembre 2026)
+**Thème :** Accessibilité / Open source
+**Sujet :** GitHub présente un cadre pour rendre les projets open source accessibles construit avec des personnes concernées par le handicap autour d'un fichier ACCESSIBILITY.md.
+**Ce que j'en retiens :** l'accessibilité doit être pensée et documentée dès le début d'un projet en précisant aussi ses limites et la manière de signaler un problème.
+**Lien avec mes projets :** mon écran météo utilise des textes alternatifs, un fort contraste et de grandes polices. Je pourrais ajouter un fichier ACCESSIBILITY.md pour documenter ces choix.
+
+---
+
 ## 2026-11-28 - Attaque sur npm
 **Source :** [TanStack](https://tanstack.com/blog/npm-supply-chain-compromise-postmortem)
 **Thème :** Sécurité
